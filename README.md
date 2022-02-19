@@ -1,4 +1,4 @@
-[](https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300)
+<img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300" >
 ## Hi there, I'm ADEM. :blush:
 
 ## Frontend Developer
