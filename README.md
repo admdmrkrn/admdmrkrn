@@ -1,4 +1,3 @@
-<iframe weight="400"height="300" align="right" src="https://giphy.com/embed/kdQqSfBiIkAVGCAIOD" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/angry-hangry-nothingwejun-kdQqSfBiIkAVGCAIOD"></a></p>
 
 ## Hi there, I'm ADEM. :blush:
 
