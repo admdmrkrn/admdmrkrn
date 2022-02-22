@@ -1,6 +1,6 @@
 
 ## Hi there, I'm ADEM. :blush: 
-<code><img height="40" src="<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code> "></code> 
+<code><img height="40" src="https://tenor.com/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470"></code> 
 
 ## Frontend Developer
 
