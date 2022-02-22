@@ -1,6 +1,5 @@
 
 ## Hi there, I'm ADEM. :blush: 
-<img src="https://tenor.com/brRKI.gif">
 
 ## Frontend Developer
 
