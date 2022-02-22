@@ -1,6 +1,5 @@
 
-## Hi there, I'm ADEM. :blush: 
-<code><img height="40" src="https://tenor.com/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470"></code> 
+# Hi there, I'm ADEM. :blush: 
 
 ## Frontend Developer
 
