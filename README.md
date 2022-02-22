@@ -1,6 +1,6 @@
 
 ## Hi there, I'm ADEM. :blush: 
-<media src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
+<img src="/img/firewall.gif" style="width:445px;height:350px;" alt="Windows Firewall">
 
 ## Frontend Developer
 
