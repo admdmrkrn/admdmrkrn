@@ -1,5 +1,6 @@
 
 ## Hi there, I'm ADEM. :blush: 
+<code><img height="40" src="<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code> "></code> 
 
 ## Frontend Developer
 
@@ -25,7 +26,7 @@
 
 ### Tech I use
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>  ***JavaScript
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code> 
 
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
