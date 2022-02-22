@@ -1,6 +1,6 @@
 
 ## Hi there, I'm ADEM. :blush: 
-<img src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
+<svg src="https://tenor.com/view/kroppa-digital-socialmedia-mothersday-developer-gif-21768300">
 
 ## Frontend Developer
 
